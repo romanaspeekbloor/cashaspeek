@@ -3552,12 +3552,17 @@ body {
 }
 .cid-s1ezKt3N0v {
   padding-top: 15px;
-  padding-bottom: 105px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s1ezKt3N0v .mbr-text,
 .cid-s1ezKt3N0v blockquote {
   color: #767676;
+}
+.cid-s1miNbZyjx {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-ryLepAuaEM .navbar {
   background: #ffffff;
